@@ -2,7 +2,7 @@
 
 A Snake game implementation that uses Q-Learning, a reinforcement learning algorithm, to train an AI agent to play the game. The project demonstrates how machine learning can be applied to classic games.
 
-![Game Preview](Trained.mp4)
+![Game Preview](example.png)
 
 ## Features 🎮
 
@@ -26,8 +26,8 @@ A Snake game implementation that uses Q-Learning, a reinforcement learning algor
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Assem-ElQersh/reinforcement-learning-snake.git
-cd reinforcement-learning-snake
+git clone https://github.com/Assem-ElQersh/Reinforcement-Learning-Snake.git
+cd Reinforcement-Learning-Snake
 ```
 
 2. Install required packages:
@@ -87,9 +87,9 @@ EPSILON_MIN = 0.01    # Minimum exploration rate
 
 ```
 ├── Reinforcement Learning Snake Game.py  # Main game file
-├── q_table.pkl                          # Saved Q-table
-├── Trained.mp4                          # Demo video
-└── README.md                            # This file
+├── q_table.pkl                           # Saved Q-table
+├── example.png                           # Example
+└── README.md                             # This file
 ```
 
 ## Contributing 🤝
